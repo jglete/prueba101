@@ -1,0 +1,20 @@
+{
+  "name": "prueba101",
+  "version": "0.0.1",
+  "authors": [
+    "Jon E. Eguiluz <viroide@gmail.com>"
+  ],
+  "description": "no hay",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
